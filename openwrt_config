@@ -4886,9 +4886,11 @@ CONFIG_OPENSSL_ENGINE=y
 # CONFIG_PACKAGE_libre is not set
 # CONFIG_PACKAGE_librem is not set
 # CONFIG_PACKAGE_libspandsp is not set
+# CONFIG_PACKAGE_libspandsp3 is not set
 # CONFIG_PACKAGE_libsrtp is not set
 # CONFIG_PACKAGE_libsrtp2 is not set
 # CONFIG_PACKAGE_signalwire-client-c is not set
+# CONFIG_PACKAGE_sofia-sip is not set
 
 #
 # database
